@@ -1,5 +1,3 @@
-# xeneon
-xenenon stack technical task
 <a name="readme-top"></a>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -51,7 +49,7 @@ Fully responsive Webite with CRUD functionality and database connectivity of log
 developers and softwares 
 <div align="center">
   <a href="">
-    <img src="screenshot.jpg" alt="Logo" width="800" height="800">
+    <img src="img/screenshot.png" alt="Logo" width="800" height="800">
   </a>
 
 * Fully Responsive website bult with HTML, CSS, bootstrap, node js and mysql.
@@ -93,7 +91,7 @@ MySQL: MySQL Workbench is a visual database design tool that integrates SQL deve
 
 <div align="center">
   <a href="">
-    <img src="Screenshot2.jpg"  width="500" height="400">
+    <img src="img/screenshot2.png"  width="500" height="400">
   </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -105,7 +103,7 @@ MySQL: MySQL Workbench is a visual database design tool that integrates SQL deve
 
 <div align="center">
   <a href="">
-    <img src="screenshot3.jpg"  width="500" height="400">
+    <img src="img/screenshot3.png"  width="500" height="400">
   </a>
 
 
@@ -121,21 +119,21 @@ MySQL: MySQL Workbench is a visual database design tool that integrates SQL deve
 
 <div align="center">
   <a href="">
-    <img src="screenshot4.jpg"  width="500" height="300">
+    <img src="img/screenshot4.png"  width="500" height="300">
   </a>
 
 - Login Succesfull
 
 <div align="center">
   <a href="">
-    <img src="screenshot5.png"  width="500" height="300">
+    <img src="img/screenshot5.png"  width="500" height="300">
   </a>
 
 - [ ] Login Error
 
 <div align="center">
   <a href="">
-    <img src="screenshot6.png"  width="500" height="300">
+    <img src="img/screenshot6.png"  width="500" height="300">
   </a>
 
 * For Going Back to the Login Page click Return to Login
